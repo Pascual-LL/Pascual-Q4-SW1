@@ -1,0 +1,21 @@
+body {
+	background-color: lightsteelblue;
+}
+mark {
+	background-color: black;
+	color: white;
+}
+.heading {
+	margin: 20px;
+	padding: 10px;
+	text-align: center;
+	font-family: "PT Serif", serif;
+
+}
+.container {
+	margin: 20px;
+	padding: 10px;
+	text-align: center;
+	font-family: "PT Serif", serif;
+	font-size: 20px;
+}
